@@ -1,0 +1,11 @@
+﻿/home/loliu/cloud-search-samples/key/searchtutorial-301603-d582425e3749.json
+ 
+Client ID
+2053788994-8nq700ihj0aet7vma2jmt7lslbrf6ia9.apps.googleusercontent.com
+ 
+Client Secret
+8dDBUbc1IPBcmN-S_8d54Rmw
+ 
+Testwgverv
+Test
+Wefwe testlouis
